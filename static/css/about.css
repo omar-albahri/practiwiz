@@ -2,8 +2,8 @@ body{
 	font-family: 'Poppins';
 }
 .backgroundgradient {
-    background: linear-gradient(-45deg, #ffffff, #00ccce, #0255ca, #222222);
-    background-size: 400% 400%;
+    background: linear-gradient(-45deg, #ffffff, #00ccce, #0255ca, #222222) !important;
+    background-size: 400% 400% !important;
     animation: gradient 15s ease infinite;
     transition: all 0.4s ease-in-out;
     transform: scale(1);
